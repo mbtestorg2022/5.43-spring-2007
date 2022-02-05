@@ -41,42 +41,408 @@ Grading
 
 The grade for the course will be calculated based on the values given below.
 
-| ACTIVITIES | WEIGHTS |
-| --- | --- |
-| Exams | 100 points each |
-| Final exam | 200 points |
-| Homework | 100 points total |
-| Total possible points | 600 points 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+WEIGHTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exams
+{{< tdclose >}}
+{{< tdopen >}}
+100 points each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+200 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+100 points total
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Total possible points
+{{< tdclose >}}
+{{< tdopen >}}
+600 points
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
 The calendar below provides information on the course's lecture (L) and exam (E) sessions.
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| L1-L4 | Stereochemistry | Problem set 1 out in Lec #3 |
-| L5-L7 | Elucidating reaction mechanisms |  {{< br >}}{{< br >}} Problem set 1 due in Lec #6 {{< br >}}{{< br >}} Problem set 2 out in Lec #6 {{< br >}}{{< br >}}  |
-| L8-L9 | Free radical reactions | Problem set 2 due in Lec #9 |
-| E1 | Exam 1 | &nbsp; |
-| L10-L13 | Free radical reactions (cont.) | Problem set 3 out in Lec #11 |
-| L14-L15 | Photochemistry |  {{< br >}}{{< br >}} Problem set 3 due in Lec #14 {{< br >}}{{< br >}} Problem set 4 out in Lec #14 {{< br >}}{{< br >}}  |
-| L15-L16 | Carbenes | &nbsp; |
-| L17 | Total synthesis | Problem set 4 due |
-| E2 | Exam 2 | &nbsp; |
-| L18 | Total synthesis (cont.) | &nbsp; |
-| L19 | Intro to heterocycles/pyradine | Problem set 5 out |
-| L20 | Pyridine/directed metallation | &nbsp; |
-| L21 | Pyridine, quinoline (quinine), isoquinoline | &nbsp; |
-| L22-L23 | Pyrroles |  {{< br >}}{{< br >}} Problem set 5 due in Lec #23 {{< br >}}{{< br >}} Problem set 6 out in Lec #23 {{< br >}}{{< br >}}  |
-| L24-L25 | Azoles | &nbsp; |
-| L26-L27 | Indoles |  {{< br >}}{{< br >}} Problem set 6 due in Lec #26 {{< br >}}{{< br >}} Problem set 7 out in Lec #26 {{< br >}}{{< br >}}  |
-| L27-L29 | Brief intro to organometallic chemistry | &nbsp; |
-| L30 | Indoles/OM indoles |  {{< br >}}{{< br >}} Problem set 7 due {{< br >}}{{< br >}} Problem set 8 out {{< br >}}{{< br >}}  |
-| E3 | Exam 3 | &nbsp; |
-| L31 | Furan, thiophene, polythiophene | &nbsp; |
-| L32 | Pyridazine, pyrimidine, pyrazine and related reading | &nbsp; |
-| L33 | Other important aromatic heterocycles | &nbsp; |
-| L34-L35 | Synthesis/chemistry of industrially imported heterocycles | Problem set 8 in Lec #34 |
-| L36 | Biosynthesis of heterocycles | &nbsp; |
-| E4 | Final exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1-L4
+{{< tdclose >}}
+{{< tdopen >}}
+Stereochemistry
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 out in Lec #3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5-L7
+{{< tdclose >}}
+{{< tdopen >}}
+Elucidating reaction mechanisms
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 1 due in Lec #6
+
+Problem set 2 out in Lec #6
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8-L9
+{{< tdclose >}}
+{{< tdopen >}}
+Free radical reactions
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due in Lec #9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E1
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10-L13
+{{< tdclose >}}
+{{< tdopen >}}
+Free radical reactions (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 out in Lec #11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14-L15
+{{< tdclose >}}
+{{< tdopen >}}
+Photochemistry
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 3 due in Lec #14
+
+Problem set 4 out in Lec #14
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15-L16
+{{< tdclose >}}
+{{< tdopen >}}
+Carbenes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+Total synthesis
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E2
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+Total synthesis (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+Intro to heterocycles/pyradine
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+Pyridine/directed metallation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+Pyridine, quinoline (quinine), isoquinoline
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22-L23
+{{< tdclose >}}
+{{< tdopen >}}
+Pyrroles
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 5 due in Lec #23
+
+Problem set 6 out in Lec #23
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L24-L25
+{{< tdclose >}}
+{{< tdopen >}}
+Azoles
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L26-L27
+{{< tdclose >}}
+{{< tdopen >}}
+Indoles
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 6 due in Lec #26
+
+Problem set 7 out in Lec #26
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L27-L29
+{{< tdclose >}}
+{{< tdopen >}}
+Brief intro to organometallic chemistry
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L30
+{{< tdclose >}}
+{{< tdopen >}}
+Indoles/OM indoles
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 7 due
+
+Problem set 8 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E3
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L31
+{{< tdclose >}}
+{{< tdopen >}}
+Furan, thiophene, polythiophene
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L32
+{{< tdclose >}}
+{{< tdopen >}}
+Pyridazine, pyrimidine, pyrazine and related reading
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L33
+{{< tdclose >}}
+{{< tdopen >}}
+Other important aromatic heterocycles
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L34-L35
+{{< tdclose >}}
+{{< tdopen >}}
+Synthesis/chemistry of industrially imported heterocycles
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 8 in Lec #34
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L36
+{{< tdclose >}}
+{{< tdopen >}}
+Biosynthesis of heterocycles
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E4
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
