@@ -5,6 +5,7 @@ description: This resource includes an outline of part 1 of the course, on stere
   of stereoselectivity, and determination of configuration.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-43-advanced-organic-chemistry-spring-2007/9bc0adb76ac114c1e71698b496df1a98_05_part1_outline.pdf
 file_type: application/pdf
+parent_uid: fdb09b2d-1a08-e3ae-ee1d-c0ba6222539a
 resourcetype: Document
 title: 05_part1_outline.pdf
 uid: 9bc0adb7-6ac1-14c1-e716-98b496df1a98

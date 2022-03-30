@@ -5,6 +5,7 @@ description: This resource includes an outline of topics in part 2 of the course
   studies of intermediates.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-43-advanced-organic-chemistry-spring-2007/f1415680002cfc8efe58c02915b25138_08_part2_outline.pdf
 file_type: application/pdf
+parent_uid: fdb09b2d-1a08-e3ae-ee1d-c0ba6222539a
 resourcetype: Document
 title: 08_part2_outline.pdf
 uid: f1415680-002c-fc8e-fe58-c02915b25138
